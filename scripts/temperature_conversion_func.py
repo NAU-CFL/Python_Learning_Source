@@ -44,3 +44,6 @@ def main():
         displayFahrenToCelsius(temp_start, temp_end)
     else:
         displayCelsiusToFahren(temp_start, temp_end)
+
+if __name__ == '__main__':
+    main()
