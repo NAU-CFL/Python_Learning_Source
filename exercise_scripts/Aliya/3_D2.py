@@ -7,6 +7,8 @@
 #Infant 30–60 1–4 years 20–30 5–14 years 15–25
 #adults 12–20 For heart rate, use an average of 67.5 beats per second
 
+Author: Aliya Kassimova
+
 a=(30+60)/2
 b=(30+20)/2
 c=(15+25)/2

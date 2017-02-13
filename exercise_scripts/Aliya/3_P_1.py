@@ -3,6 +3,7 @@
 # the second, with exactly two decimal places displayed.
 
 # Author: Aliya Kassimova
+
 a=int(input("Enter the value: "))
 b=int(input("Enter the value: "))
 result=a/b

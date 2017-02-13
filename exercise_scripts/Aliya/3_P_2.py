@@ -2,6 +2,7 @@
 #  and displays the result of the first number divided by the second,
 #  with exactly six decimal places displayed.
 
+# Author: Aliya Kassimova
 
 a=float(input("Enter the value: "))
 b=float(input("Enter the value: "))
